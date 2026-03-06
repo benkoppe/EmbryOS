@@ -1,0 +1,37 @@
+.nix-bin
+.direnv
+
+# ch1
+logdump
+qemu.bin
+qemu.elf
+qemu.lst
+.direnv
+.treefmt-cache
+result
+result-*
+
+# ch12
+*_gen.c
+embedfiles
+selfies
+
+*/apps/cat
+*/apps/init
+*/apps/life
+*/apps/help
+*/apps/snake
+*/apps/splash
+*/apps/shell
+*/apps/ls
+*/apps/ed
+*/apps/pong
+*/apps/sleeptest
+*/apps/game
+*/apps/t_pong
+*/apps/*.lst
+
+*/apps/stopwatch
+
+# macos
+.DS_Store
